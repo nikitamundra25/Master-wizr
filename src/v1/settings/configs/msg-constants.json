@@ -1,0 +1,5 @@
+{
+	"DEFAULT_ERROR_MESSAGE": "An unknown error occure while completing your request. Please try after some time.",
+	"NO_EMAIL_FOUND_MESSAGE": "We are unable to find your email in our system. Please try using our user registration process.",
+	"NO_DATA": "No data found."
+}

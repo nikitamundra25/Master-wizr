@@ -1,0 +1,22 @@
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+@import url('./v1/assets/css/styles.scss');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("../node_modules/react-toastify/dist/ReactToastify.css");
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  font-size: 14px;
+  color: #2c3e50;
+  font-weight: 400;
+  background: #f0f0f0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
